@@ -6,7 +6,7 @@ List of Challange I solved.
 
 ### Week 1
 | Category | Challenge |
-| Miscellaneous | [Sanity](/Judul%205/)
+| Miscellaneous    | [Sanity](/Judul%205/)
 | Web Exploitation | [Fortune Cookies](/Judul%201/)
 | Web Exploitation | [ezqlite](/Judul%202/)
 | Web Exploitation | [Mongkey](/Judul%203/)
